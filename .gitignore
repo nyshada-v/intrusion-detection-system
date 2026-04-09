@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.env
+node_modules/
+dist/
+
+# Models (Optional: only if they are very large)
+# backend/models/*.pkl
+# backend/models/*.onnx
