@@ -1,3 +1,22 @@
+# Environments
+venv/
+.env
+
+# Python Cache
+**/__pycache__/
+**/*.pyc
+
+# IDEs
+.vscode/
+.idea/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Models (Optional: only if they are very large)
+backend/models/*.pkl
+backend/models/*.onnx
 venv/
 __pycache__/
 *.pyc
